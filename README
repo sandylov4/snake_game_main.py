@@ -1,0 +1,12 @@
+🐍 Snake Game (Python)
+
+## Overview
+-A modular Snake game built using Python, demonstrating object-oriented design and real-time game logic.
+
+## Features
+-Modular design with separate classes for snake, food, and scoreboard
+-Collision detection (wall + self)
+-Score tracking system
+
+## How to Run
+-python snake_game_main.py
