@@ -1,12 +1,28 @@
 🐍 Snake Game (Python)
 
 ## Overview
--A modular Snake game built using Python, demonstrating object-oriented design and real-time game logic.
+-A Snake game built using Python, demonstrating object-oriented design and real-time game logic.
 
 ## Features
--Modular design with separate classes for snake, food, and scoreboard
--Collision detection (wall + self)
--Score tracking system
+- Object-oriented design with separate classes for snake, food, and scoreboard
+- Collision detection for walls and self-contact
+- Real-time score tracking during gameplay
+- High score tracking across sessions (if implemented)
+- Smooth keyboard controls and continuous movement
 
 ## How to Run
--python snake_game_main.py
+
+### Option 1: Using PyCharm
+1. Open the project folder in PyCharm
+2. Locate `snake_game_main.py`
+3. Right-click the file and select **Run**
+
+### Option 2: Using Terminal
+1. Navigate to the project directory
+2. Run:
+   python snake_game_main.py
+
+## Skills Demonstrated
+- Object-Oriented Programming (OOP)
+- Game logic and state management
+- Debugging and problem-solving
